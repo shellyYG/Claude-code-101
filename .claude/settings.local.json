@@ -1,0 +1,16 @@
+{
+    "permissions": {
+        "allow": [
+            "**",
+            "Bash(ls:*)",
+            "Bash(git:*)",
+            "Bash(pnpm:*)",
+            "Bash(npm:*)",
+            "Bash(node:*)",
+            "Bash(cat:*)",
+            "Bash(echo:*)",
+            "Bash(pwd)",
+            "Bash(cd:*)"
+        ]
+    }
+}
